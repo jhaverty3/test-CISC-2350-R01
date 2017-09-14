@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Electron Beam Tomography</title>
+	<!-- I chose to do a random wikipedia article on a topic I dont know anything about -->
+</head>
+<body>
+<h1>Electron Beam Tomography</h1>
+
+<q>Medicine is a science of uncertainty and an art of probability</q> <p>- William Osler</p>
+<!-- This is the tag that I hadn't learned from class -->
+<hr>
+
+<h2>What is it?</h2>
+
+<p>Electron Beam Tomography, know within the medical community<br> as EBT, is a type of CT (computed tomography) scan that is on<br> the cutting edge of medical imaging technology and has very<br> useful applications in the fields of medicine and biology.</p>
+
+<figure>
+<img src="https://d9aqs07uebq07.cloudfront.net/content/clinchem/44/8/1871/F1.large.jpg" alt="Diagram" height="150" width="350"> 
+<figcaption>This is not my photo. Credit to Wikipedia.com</figcaption>
+</figure>
+
+<!-- This is my figure image -->
+
+<br>
+<br>
+<!-- Two breaks looked better to me -->
+<a href="https://en.wikipedia.org/wiki/Electron_beam_tomography" target="_blank">Electron Beam Tomography Wikipedia Page</a>
+
+<h2>Who invented it?</h2>
+
+<p> EBT was invented by Dr.Douglas Boyd at Imatron, starting in<br> 1977.</p><br>
+
+<img src="http://physicians.ucdavis.edu/Custom/Photos/1274.jpg" alt="Dr.Boyd" height="150" width="125">
+
+<h2>Where was it first implemented?</h2>
+
+<p>The first clinical installation took place at University of <br> California at San Francisco circa 1984.</p><br>
+
+<img src="https://www.ucsf.edu/sites/default/files/legacy_files/parnassus_400.jpg" alt="UCSF" height="200" width="400">
+
+<h2>How has it changed since inception?</h2>
+
+<p>EBT has been improved in spatial resolution, temporal <br>resolution, and software applicability, and has been sold to <br>physicians globally.</p>
+<!-- No image here because it was hard to find a graphic that represented this transition -->
+<h2>Why is it useful?</h2>
+
+<p>EBT has a wide variety of applications within the medical <br>imaging community.</p>
+ 
+<p>Applications Include......</p>
+<ul>
+	<li>Original Anatomy</li>
+	<li>Wall Motion</li>
+	<li>Perfusion</li>
+	<li>Measurement of Coronary Calcium</li>
+	<li>CT Coronary Angiography</li>
+	<li>Lung Studies</li>
+	<li>Standard CT Radiological Examinations</li>
+</ul>
+
+<iframe width="800" height="491" src="https://www.youtube.com/embed/ORy0Li5LMk4" frameborder="0" allowfullscreen></iframe>
+
+
+</body>
+</html>
